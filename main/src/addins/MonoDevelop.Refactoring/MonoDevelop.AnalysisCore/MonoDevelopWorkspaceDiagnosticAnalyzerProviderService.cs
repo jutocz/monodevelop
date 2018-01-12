@@ -72,6 +72,8 @@ namespace MonoDevelop.AnalysisCore
 					case "Refactoring Essentials":
 					case "Microsoft.CodeAnalysis.CSharp":
 					case "Microsoft.CodeAnalysis.CSharp.Features":
+					case "Microsoft.CodeAnalysis.EditorFeatures":
+					case "Microsoft.CodeAnalysis.EditorFeatures.CSharp":
 					case "Microsoft.CodeAnalysis.Features":
 					case "Microsoft.CodeAnalysis.VisualBasic.Features":
 					case "Microsoft.CodeAnalysis.VisualBasic":
